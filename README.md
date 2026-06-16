@@ -1,2 +1,25 @@
-# 928aeace-dental-practice-management-pri
-Dynamic pricing, tiered packages, discount logic, and branded quote PDFs. Close deals faster with instant accurate quotes.
+# Dental Practice Management Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm00jh1B4sc1de33md0p0y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm00jh1B4sc1de33md0p0y)
+
